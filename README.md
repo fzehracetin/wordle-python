@@ -6,8 +6,6 @@ You can play with two people, one picking the next word and the other trying to 
 I will add a Turkish version and a one-person mode.
 
 ## Screenshots
-![Main page](screenshots/wordle-gui.JPG)
-
 ![Trials](screenshots/wordle-gui-2.JPG)
 
 
